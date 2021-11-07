@@ -1,3 +1,5 @@
+# FRASER MONTANDON
+# external ADC logger for testing
 #!/usr/bin/python
 
 import spidev

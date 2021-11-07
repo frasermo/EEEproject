@@ -1,0 +1,22 @@
+Circuit: * C:\Users\Fraser Montandon\Desktop\4022s\ltspice\voltage_protection_circuit.asc
+
+WARNING: Less than two connections to node NC_01.  This node is used by R1.
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Oct 21 12:13:53 2021
+Total elapsed time: 1.223 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 127149
+traniter = 127145
+tranpoints = 40053
+accept = 28022
+rejected = 12031
+matrix size = 8
+fillins = 0
+solver = Normal
+Matrix Compiler1: 246 bytes object code size  0.1/0.0/[0.0]
+Matrix Compiler2: off  [0.1]/0.1/0.1
+
